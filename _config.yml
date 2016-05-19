@@ -1,0 +1,28 @@
+name: oneHondred
+favicon: null
+layout_spectrum: 0.7431464430410415
+typography_spectrum: 0.7911980072967708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2424373698886484
+  lightness: 0.26015319116413593
+  saturation: 0.5188242050353438
+  rhythmicContrast: 0.2895570907276124
+purpose: []
